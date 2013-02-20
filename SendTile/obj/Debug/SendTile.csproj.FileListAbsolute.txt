@@ -1,0 +1,5 @@
+C:\Sources\notifications\SendTile\bin\SendTile.dll
+C:\Sources\notifications\SendTile\bin\SendTile.pdb
+C:\Sources\notifications\SendTile\obj\Debug\SendTile.csprojResolveAssemblyReference.cache
+C:\Sources\notifications\SendTile\obj\Debug\SendTile.dll
+C:\Sources\notifications\SendTile\obj\Debug\SendTile.pdb

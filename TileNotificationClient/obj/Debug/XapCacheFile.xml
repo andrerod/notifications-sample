@@ -1,0 +1,15 @@
+﻿<xapCache source="C:\Sources\notifications\TileNotificationClient\Bin\Debug\TileNotificationClient_Debug_AnyCPU.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="20/02/2013 15:32:02">
+  <file source="C:\Sources\notifications\TileNotificationClient\obj\Debug\TileNotificationClient.dll" archivePath="TileNotificationClient.dll" lastWriteTime="20/02/2013 15:20:06" />
+  <file source="C:\Sources\notifications\TileNotificationClient\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="20/02/2013 12:27:49" />
+  <file source="C:\Sources\notifications\TileNotificationClient\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="20/02/2013 12:27:49" />
+  <file source="C:\Sources\notifications\TileNotificationClient\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="20/02/2013 12:27:49" />
+  <file source="C:\Sources\notifications\TileNotificationClient\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="20/02/2013 12:27:49" />
+  <file source="C:\Sources\notifications\TileNotificationClient\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="20/02/2013 12:27:49" />
+  <file source="C:\Sources\notifications\TileNotificationClient\tile1.jpg" archivePath="tile1.jpg" lastWriteTime="20/02/2013 15:15:16" />
+  <file source="C:\Sources\notifications\TileNotificationClient\tile2.jpg" archivePath="tile2.jpg" lastWriteTime="20/02/2013 15:15:16" />
+  <file source="C:\Sources\notifications\TileNotificationClient\tile3.jpg" archivePath="tile3.jpg" lastWriteTime="20/02/2013 15:15:16" />
+  <file source="C:\Sources\notifications\TileNotificationClient\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="20/02/2013 15:20:07" />
+  <file source="C:\Sources\notifications\TileNotificationClient\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="20/02/2013 12:27:49" />
+  <file source="C:\Sources\notifications\TileNotificationClient\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="20/02/2013 12:27:49" />
+  <file source="C:\Sources\notifications\TileNotificationClient\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="20/02/2013 12:28:01" />
+</xapCache>
